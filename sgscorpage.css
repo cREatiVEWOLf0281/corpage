@@ -1,0 +1,30 @@
+body {
+  background-color: #255555;
+}
+
+.resources-menu {
+  height: auto;
+  max-height: 200px;
+  overflow-x: hidden;
+}
+
+.mobpic {
+  width: 500px;
+}
+
+.img {
+  text-align: center;
+}
+
+.bg-premoblu {
+  background-color: #00aa99;
+}
+.duedate {
+  text-align: center;
+}
+.assignment-card {
+  margin: 0 auto;
+}
+.duedatedate {
+  font-size: 25px;
+}

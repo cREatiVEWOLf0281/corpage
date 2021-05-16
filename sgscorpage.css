@@ -6,10 +6,6 @@ body {
   color: #44bd32;
 }
 
-.card-inner {
-  margin: 20px;
-}
-
 .ppcard {
   background-color: #29a3a3;
 }
@@ -27,6 +23,12 @@ body {
 }
 .chcard {
   background-color: #ff0047;
+}
+
+
+.card-inner {
+  margin: 20px;
+  background-color: #ffffff;
 }
 
 .late {

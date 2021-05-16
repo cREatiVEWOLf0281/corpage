@@ -7,6 +7,7 @@ body {
   margin-top: 50px;
   margin-bottom: 50px;
   color: #DEDEDE;
+}
 
 .empdiv {
   margin: 0 auto;
@@ -51,6 +52,10 @@ body {
 .late {
   color: #c23616;
 }
+  
+.submitted {
+  color: #e1b12c;
+  }
 
 .holcount {
   font-size: 50px;

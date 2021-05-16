@@ -2,6 +2,12 @@ body {
   background-color: #255555;
 }
 
+.holcountitle {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #DEDEDE;
+
 .empdiv {
   margin: 0 auto;
 }
